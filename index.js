@@ -27,4 +27,4 @@ function renderChart() {
 }
 
 renderChart();
-setInterval(renderChart, 3600);
+setInterval(renderChart, 2000);
